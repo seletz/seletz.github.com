@@ -3,7 +3,7 @@ layout: post
 title: "Jython, Oracle and JDBC"
 date: 2012-02-28 08:21
 comments: true
-categories: jython python howto
+tags: jython python howto
 ---
 
 I recently had the need to access a new table in an existing oracle database

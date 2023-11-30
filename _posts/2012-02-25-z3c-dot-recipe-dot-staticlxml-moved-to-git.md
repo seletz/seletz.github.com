@@ -3,7 +3,7 @@ layout: post
 title: "z3c.recipe.staticlxml moved to git"
 date: 2012-02-25 14:35
 comments: true
-categories: tools python
+tags: tools python
 ---
 
 I've got a request to update my buildout recipe to build a statically

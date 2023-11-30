@@ -3,7 +3,7 @@ layout: post
 title: "switch from bash to zsh"
 date: 2012-01-06 13:03
 comments: true
-categories: tools howto
+tags: tools howto
 published: true
 ---
 

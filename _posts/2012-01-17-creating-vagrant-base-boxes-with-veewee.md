@@ -3,7 +3,7 @@ layout: post
 title: "Creating Vagrant Base Boxes With veewee"
 date: 2012-01-17 08:26
 comments: true
-categories: tools testing
+tags: tools testing
 ---
 
 In this post I show how to install and use [veewee] [1] to create a new

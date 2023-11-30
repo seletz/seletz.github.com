@@ -4,7 +4,7 @@ title: "Creating a RabbitMQ test setup with vagrant"
 date: 2012-01-18 16:00
 comments: true
 published: yes
-categories: tools testing rabbitmq
+tags: tools testing rabbitmq
 ---
 
 In this post I'll provide a writeup on how I created a test setup for

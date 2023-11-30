@@ -3,7 +3,7 @@ layout: post
 title: experiments with groovy
 date: 2012-01-05 17:30
 comments: true
-categories: groovy code
+tags: groovy code
 published: true
 ---
 

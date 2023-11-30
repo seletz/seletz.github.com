@@ -3,7 +3,7 @@ layout: post
 title: "Clojure for Windchill Development, Part 1"
 date: 2012-07-09 10:06
 comments: true
-categories: clojure windchill
+tags: clojure windchill
 ---
 
 I always wanted to know more about functional programming and lisp -- so I

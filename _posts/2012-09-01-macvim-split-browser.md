@@ -3,7 +3,7 @@ layout:    post
 title:    "Installing MacVIM with split browser support using homebrew"
 date:     2012-09-01
 comments: true
-categories: tools howto
+tags: tools howto
 ---
 
 I'm a old-school coder and my first editor was *vi* on a old terminal
