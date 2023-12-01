@@ -184,6 +184,9 @@ exclude:
   - rollup.config.js
   - package*.json
 
+include:
+  - keybase.txt
+
 jekyll-archives:
   enabled: [categories, tags]
   layouts:

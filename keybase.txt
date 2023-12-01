@@ -1,0 +1,51 @@
+https://keybase.io/seletz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://seletz.github.io
+  * I am seletz (https://keybase.io/seletz) on keybase.
+  * I have a public key ASDUpiRgFWwhHifECeWfIxoffMwZubpVp-GkFp0emqRHMwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120d4a62460156c211e27c409e59f231a1f7ccc19b9ba55a7e1a4169d1e9aa447330a",
+            "host": "keybase.io",
+            "kid": "0120d4a62460156c211e27c409e59f231a1f7ccc19b9ba55a7e1a4169d1e9aa447330a",
+            "uid": "f7fff635bdad63fae8cc9be57dd00b19",
+            "username": "seletz"
+        },
+        "service": {
+            "hostname": "seletz.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1476259798,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1476259740,
+        "hash": "07991a877aaac58ba6dd3cf7e7f4906ea50bf5af5e1cb9f6e76d3b7441b6b7a6d7c32035cc34bd38a0a274ebf11b62cd927d13b6d90d30e647a11f1b739f95ec",
+        "seqno": 673559
+    },
+    "prev": "72ab7c2246ac4153454907b1ddcc6c532a0f4eaf297327171da8b33d22570e61",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1KYkYBVsIR4nxAnlnyMaH3zMGbm6VafhpBadHpqkRzMKp3BheWxvYWTFAvd7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZDRhNjI0NjAxNTZjMjExZTI3YzQwOWU1OWYyMzFhMWY3Y2NjMTliOWJhNTVhN2UxYTQxNjlkMWU5YWE0NDczMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDRhNjI0NjAxNTZjMjExZTI3YzQwOWU1OWYyMzFhMWY3Y2NjMTliOWJhNTVhN2UxYTQxNjlkMWU5YWE0NDczMzBhIiwidWlkIjoiZjdmZmY2MzViZGFkNjNmYWU4Y2M5YmU1N2RkMDBiMTkiLCJ1c2VybmFtZSI6InNlbGV0eiJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoic2VsZXR6LmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE3In0sImN0aW1lIjoxNDc2MjU5Nzk4LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NzYyNTk3NDAsImhhc2giOiIwNzk5MWE4NzdhYWFjNThiYTZkZDNjZjdlN2Y0OTA2ZWE1MGJmNWFmNWUxY2I5ZjZlNzZkM2I3NDQxYjZiN2E2ZDdjMzIwMzVjYzM0YmQzOGEwYTI3NGViZjExYjYyY2Q5MjdkMTNiNmQ5MGQzMGU2NDdhMTFmMWI3MzlmOTVlYyIsInNlcW5vIjo2NzM1NTl9LCJwcmV2IjoiNzJhYjdjMjI0NmFjNDE1MzQ1NDkwN2IxZGRjYzZjNTMyYTBmNGVhZjI5NzMyNzE3MWRhOGIzM2QyMjU3MGU2MSIsInNlcW5vIjoxMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAXtr2BkkcMH5UuJkRWmirwp1Zhz2aspWr17nA/kRl39cgQALJOuNnfLFKmjVFq79Xv2T4OZrfyFtkEY4QyFtABqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgJVOLgGGkZtKQWRcdBbnbIzrxor1BJbbbHoPXwjWY0R6jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/seletz
