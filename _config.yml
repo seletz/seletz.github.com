@@ -44,6 +44,11 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
 
+
+google:
+  tag_manager:
+    container_id: G-7EP2KF4E53
+
 google_site_verification: # fill in to your verification string
 
 # ↑ --------------------------
