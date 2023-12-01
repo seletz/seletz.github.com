@@ -87,10 +87,10 @@ $ ./configure && make && make install
 
 Change your Apache Proxy to match the following.  Replace the following values:
 
-- OIDCProviderMetadataURL: Must point to the "well known" Open ID Connect
+- *OIDCProviderMetadataURL*: Must point to the "well known" Open ID Connect
   configuration URL.  The example uses Windchill as Realm.
-- OIDCClientID: The client id as defined in Keycloak
-- OIDCClientSecret: The client secret from Keycloak
+- *OIDCClientID*: The client id as defined in Keycloak
+- *OIDCClientSecret*: The client secret from Keycloak
 
 ```text
 # OIDC
@@ -233,7 +233,7 @@ What we need to do is to tell Windchill the remote user it should use.  The way
 this works in Windchill is pretty easy – Windchill relies on the
 `HttpServletRequest.getRemoteUser()` call to return a `java.security.Principal`.
 That principal object is pretty simplistic – it's just a POJO which has a
-`getName().
+`getName()`.
 
 Our user name is passed on by the proxy as HTTP parameter
 `OIDC_CLAIM_preferred_user` (there are many others).  This is fine, because the
