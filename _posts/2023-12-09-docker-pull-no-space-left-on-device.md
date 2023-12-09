@@ -51,7 +51,7 @@ Run 'docker system COMMAND --help' for more information on a command.
 Of course the `docker system df` is helpful:
 
 ```shell
-❯ docker system df
+$ docker system df
 TYPE            TOTAL     ACTIVE    SIZE      RECLAIMABLE
 Images          117       2         47.15GB   46.77GB (99%)
 Containers      4         0         3.241MB   3.241MB (100%)
@@ -63,7 +63,7 @@ Woot!  Docker uses 46GB for images on my system!  It even tells me that almost a
 "reclaimable".  Let's prune them:
 
 ```shell
-❯ docker image prune -a
+$ docker image prune -a
 WARNING! This will remove all images without at least one container associated to them.
 Are you sure you want to continue? [y/N] y
 Deleted Images:
