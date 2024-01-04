@@ -25,8 +25,10 @@ Quickly after I started to study *applied computer science* I started to use
 Linux.  I did a my diploma thesis at a company near Frankfurt, Germany.  They
 created software which processed bank transaction data.  This software was run
 on very big UNIX machines.  I was introduced to the `vi` editor (**not** the
-*vim*) and terminals.  I've never been able to use a non-modal editor
-efficiently.
+*vim*) and terminals.  I've been spoiled since then -- I seem to be unable to
+use non-modal editing.  Nowadays I use EMACS, but of course I have EVIL
+installed.  Whatever other IDE I use -- first thing is to search for a vim mode
+or plugin.
 
 ----
 
