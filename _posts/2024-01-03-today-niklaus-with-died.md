@@ -9,7 +9,7 @@ tags: programming meta
 I just came back from a quite difficult afternoon business meeting
 just to learn via [Hacker News](https://news.ycombinator.com/item?id=38858012)
 that one of my great heros [Niklaus Wirth](https://de.wikipedia.org/wiki/Niklaus_Wirth)
-died today.
+died today[^footnote].
 
 As a teenager, I invested all my time (lots of it) and money into all things
 around computers.  I owned a VIC 20, then a C64, and then a Amiga 500.
@@ -39,5 +39,9 @@ meet Niklaus Wirth.
 Well, now the only thing I will be able to meet is his ideas.
 
 RIP Niklaus Wirth.
+
+---
+[^footnote]: I learned just now that Niklaus Wirth actually died 2024-01-01.  I kept
+             the original post above intact.
 
 
