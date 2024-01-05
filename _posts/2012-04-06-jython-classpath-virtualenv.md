@@ -4,6 +4,8 @@ title: "Jython, classpath and virtualenv"
 date: 2012-04-06 18:26
 comments: true
 tags: jython python java howto windchill
+redirect_from:
+    - /blog/2012/04/06/jython-classpath-virtualenv
 ---
 
 I finally came around to investigate some long standing issues I have

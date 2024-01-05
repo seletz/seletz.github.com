@@ -4,6 +4,8 @@ title: "Creating Vagrant Base Boxes With veewee"
 date: 2012-01-17 08:26
 comments: true
 tags: tools testing
+redirect_from:
+  - /blog/2012/01/17/creating-vagrant-base-boxes-with-veewee
 ---
 
 In this post I show how to install and use [veewee] [1] to create a new

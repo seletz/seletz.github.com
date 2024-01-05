@@ -5,6 +5,8 @@ date: 2012-01-08 20:33
 comments: true
 tags: groovy java
 published: true
+redirect_from:
+  - /blog/2012/01/08/groovy-scripting-pdmlink
 ---
 
 In this post I'll explore how `groovy` may be used to script `Windchill PDMlink`.

@@ -4,6 +4,8 @@ title: "Jython, Oracle and JDBC"
 date: 2012-02-28 08:21
 comments: true
 tags: jython python howto
+redirect_from:
+  - /blog/2012/02/28/jython-oracle-jdbc
 ---
 
 I recently had the need to access a new table in an existing oracle database
