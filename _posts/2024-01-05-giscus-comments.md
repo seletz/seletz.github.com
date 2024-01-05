@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Enabling Comments with in Jekyll Giscus"
+title:      "Enabling Comments with in Jekyll using Giscus"
 date:       2024-01-05
 comments:   true
 tags:       meta jekyll
