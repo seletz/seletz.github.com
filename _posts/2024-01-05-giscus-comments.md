@@ -25,7 +25,8 @@ The nice thing is that the `chirpy` theme I use already has a giscus integration
 
 ## Configuration
 
-To configure giscus, I had to:
+Configuration is simple -- I found more explanation over at [Martin's Tech Journal](https://blog.martinp7r.com/posts/adding-giscus-comments-to-my-blog/).
+I had to:
 
 1. Install and authorize the `giscus` app in GitHub blog's repository
 2. Configure the app on https://giscus.app 
