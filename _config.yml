@@ -84,7 +84,7 @@ avatar: /assets/images/seletz.png
 toc: true
 
 comments:
-  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: giscus
   # The active options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -94,14 +94,15 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
-    mapping: # optional, default to 'pathname'
-    input_position: # optional, default to 'bottom'
+    enabled: true
+    repo: "seletz/seletz.github.com"
+    repo_id: "R_kgDOKz8K1A"
+    category: "Announcements"
+    category_id: "DIC_kwDOKz8K1M4CcN1e"
+    mapping: "pathname"
+    input_position: "bottom"
     lang: # optional, default to the value of `site.lang`
-    reactions_enabled: # optional, default to the value of `1`
+    reactions_enabled: "1"
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
@@ -200,7 +201,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
 
 plugins:
   - jekyll-redirect-from
