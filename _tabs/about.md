@@ -4,81 +4,104 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-
 <!-- ![](/assets/images/seletz.png){: width="500" .left} -->
-<!-- This is my **personal** blog -- I'll try to do regular posts which revolve around -->
-<!-- the stuff I'm interested in. -->
+<!-- Welcome to my personal blog where I'll regularly share my thoughts and experiences -->
+<!-- on subjects that fascinate me. -->
 
-I'm a professional software developer.  I'm the founder of [nexiles] [1],
-a software development and consulting software.
+As a professional software developer and the founder and CTO of [nexiles] [1], a
+dynamic software development and consulting firm, I've devoted my career to
+technology and innovation.
 
-> **TL;DR:** I'm a jack of all trades, journeyman of some.
+----
+
+In my position at nexiles, my responsibilities span research & development,
+mentoring a talented group of software developers, and providing them with
+ongoing support. I also play an active role in enhancing the features of
+nexiles' primary products.
+
+My current interests are centered on exploring loosely-coupled systems, delving
+into event-driven design, and tackling challenges in integration and data
+migration. 
+
+At nexiles, I've positioned myself as a pioneer. I have initiated all of the
+core products that the company proudly offers today. For several of these
+innovations, I continue to be the principal contributor and driving force.
+
+> **In a nutshell:** At nexiles, I lead R&D, mentor developers, and innovate
+> core products, focusing on event-driven and loosely-coupled systems.
 {: .prompt-info }
 
 ----
 
-I've been programming computers basically my whole life -- I've started on a
-[VIC 20] [2], moved to a [C64] [3], an [Amiga 500] [4], an [Amiga 2000] [5],
-then to PCs.
+My journey with computers began at an early age. I started with a [VIC 20] [2],
+transitioned through [C64] [3], [Amiga 500] [4], [Amiga 2000] [5], and
+eventually to PCs. 
 
-Quickly after I started to study *applied computer science* I started to use
-Linux.  I did a my diploma thesis at a company near Frankfurt, Germany.  They
-created software which processed bank transaction data.  This software was run
-on very big UNIX machines.  I was introduced to the `vi` editor (**not** the
-*vim*) and terminals.  I've been spoiled since then -- I seem to be unable to
-use non-modal editing.  Nowadays I use EMACS, but of course I have EVIL
-installed.  Whatever other IDE I use -- first thing is to search for a vim mode
-or plugin.
+During my applied computer science studies, I embraced Linux and completed my
+diploma thesis at a Frankfurt-based company specializing in banking transaction
+software for UNIX systems. This experience introduced me to the `vi` editor (not
+*vim*) and the world of terminal-based computing, which has influenced my
+preference for modal editing. Now, I primarily use EMACS, augmented with
+EVIL, and whenever I explore a new IDE, my first task is finding a vim mode or
+plugin.
 
-----
+My professional career began by developing add-ons for a [3D CAD] [7] system in
+[C] [6], compatible across various platforms including [Solaris] [8], [HP UX]
+[9], [AIX] [10], [Linux] [11], [SGI/Irix] [12], and [Windows/NT] [13]. The
+challenge of maintaining a singular codebase across these systems was immense.
 
-My first job as professional software developer involved creating add-ons for a
-[3D CAD] [7] system, which we coded in [C] [6].  These add-ons had to run on
-all platforms the cad software was available back then: [Solaris] [8], [HP UX]
-[9], [AIX] [10], [Linux] [11], [SGI/Irix] [12] and [Windows/NT] [13].  We had
-**one** code base -- enough said.
+I then delved into Linux kernel development for the [ARM] [14] architecture,
+starting with the [StrongARM] [15] SOC and later the [XScale] [16]. My role
+spanned from board bring-up and hardware debugging to creating custom drivers
+and development libraries for high-speed measurement hardware. This period
+involved intense problem-solving, real-time driver creation, and adapting older,
+static memory layout codes to new platforms. It was a period of tremendous
+growth and learning.
 
-----
+Concurrently, I co-founded [InQuant] [19] and later [nexiles] [1]. My time at
+*InQuant* was marked by a shift to full-time web development, focusing on [Zope]
+[20] and [Plone] [21] systems. It was here that I discovered my love for
+[Python] [22]. Our projects included developing and hosting back-end systems for
+Warner Music Germany's artist pages. This era also introduced me to the
+principles of Test Driven Development.
 
-Afterwards I got involved in Linux kernel development on the [ARM] [14]
-architecture -- first using the [StrongARM] [15] SOC, then moving to the
-[XScale] [16].  I did the whole stuff, board bring-up, hardware debugging using
-a logic analyzer ), creating
-a board support page, maintaining kernel deployments, creating custom drivers
-for a custom high-speed measurement hardware, creating "userland" development
-libraries for them. {" This involved lots of shouting, cursing, head banging."}
-created hard real-time drivers and software using [xenomai] [18], and I ported a
-soft-SPS software to this platform.  I also helped to port over code which was written
-for a older architecture with a fixed, static memory layout to this platform
-(horrors!).  This was a very fun time, indeed.
+At nexiles, I leveraged advanced programming languages and was actively
+involved in UI development with tools like [coffeescript] [23] and [backbone.js]
+[24] in the corporate world.
 
-----
-
-In the mean time, I was a co-founder of [InQuant] [19], which I and all but
-one of the founders left again afterwards to found [nexiles] [1].
-
-During the time at *InQuant* -- sic, fancy spelling -- I've switched to
-do full-time web development revolving around the [Zope] [20] and [Plone] [21]
-systems.  This was when I got fond of [Python] [22].  Amongst other things,
-back then we're hosted and developed the back end which drove the whole bunch
-of artist pages over at Warner Music, Germany.  This was also the time when I got
-introduced and fond of Test Driven Development.
-Afterwards I got involved in Linux kernel development on the [ARM] [14]
-
-----
-
-Nowadays I still develop using those fancy *higher* languages, and I got into
-[coffeescript] [23] and we're doing UI development using [backbone.js] [24] in
-the *enterprise* world.
-
-> enterprise mostly means obsolete browsers, obsolete mindsets, obsolete
-> operating systems and obsolete web stacks
+> Corporate life often means navigating outdated technologies and mindsets, but
+> it also presents unique challenges and learning opportunities.
 {: .prompt-info }
 
-I've come to a full circle now -- I'm doing back-end add-ons for a [PLM System] [25]
-which is used to manage CAD data created by the CAD system.  But I've not forgot
-where I come from -- I'm using [Jython] [26] to overcome some of the Java/Tomcat/Apache/Oracle
-madness, and I'm developing my own, sane, lean JSON web API for the thing.
+I've come full circle, developing back-end add-ons for a [PLM System] [25]
+managing CAD data. Yet, I haven't forgotten my roots. I've been using [Jython]
+[26] to streamline Java/Tomcat/Apache/Oracle complexities and am creating a
+lean, efficient JSON web API to enhance functionality.
+
+----
+
+### Management Skills
+
+TODO
+
+### Tech Stack
+
+- Nowadays I've embraced the Java ecosystem for it's stability.  I've been using
+[Spring](https://spring.io) to develop several solutions and products.
+- As a data persistence layer I've been using [PostgreSQL](https://www.postgresql.org).
+- For messaging and enterprise integration, I've become quite fond of [RabbitMQ](https://rabbitmq.com)
+- For UI, I've initially introduced the use of
+[ExtJS](https://www.sencha.com/products/extjs), which has now been replaced by
+[VueJS](https://vuejs.org).
+- I'm used to do automated builds and deployments using various systems.
+  Nowadays I use [GitHub actions](https://github.com/features/actions).
+- I've been hosting servers both on premises and in the cloud.  Nowadays we use
+  Kubernetes on the [Google Cloud](https://cloud.google.com/kubernetes-engine)
+- I'm fluent in [Python](http://www.python.org).
+- I've been using several version control systems.  Currently I use
+  [git](https://git-scm.com) since the Linux kernel development team moved to
+  git from [bitkeeper](http://www.bitkeeper.org).
+
 
 [1]: http://www.nexiles.com 					"nexiles"
 [2]: http://en.wikipedia.org/wiki/Commodore_VIC-20 		"VIC 20"
@@ -106,6 +129,3 @@ madness, and I'm developing my own, sane, lean JSON web API for the thing.
 [24]: http://http://documentcloud.github.com/backbone		"backbone"
 [25]: http://www.ptc.com/product/windchill/pdmlink		"PLM System"
 [26]: http://www.jython.org                       	 	"Jython"
-
-
-
