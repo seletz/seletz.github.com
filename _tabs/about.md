@@ -2,6 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+tags: personal meta
 ---
 
 <!-- ![](/assets/images/seletz.png){: width="500" .left} -->
@@ -82,9 +83,20 @@ lean, efficient JSON web API to enhance functionality.
 
 ### Management Skills
 
-TODO
+While I consider myself primarily as geek, developer, technologist, hacker, I've
+picked up some management skills.  I've been managing a team of software developers,
+both as project lead / project manager and lately increasingly as mentor.
 
-### Tech Stack
+I'm known to have quite strong opinions on some areas and I like discussions.  I
+value input from all levels.
+
+As part of my project management work, I've been involved in and lead several
+mission critical projects in a diverse corporate / enterprise setup.
+
+### Tech Skills
+
+> **My Mantra:** Make it work, make it correct, make it fast.  In that order.
+{: .prompt-info }
 
 - Nowadays I've embraced the Java ecosystem for it's stability.  I've been using
 [Spring](https://spring.io) to develop several solutions and products.
@@ -96,8 +108,15 @@ TODO
 - I'm used to do automated builds and deployments using various systems.
   Nowadays I use [GitHub actions](https://github.com/features/actions).
 - I've been hosting servers both on premises and in the cloud.  Nowadays we use
-  Kubernetes on the [Google Cloud](https://cloud.google.com/kubernetes-engine)
+  Kubernetes on the [Google Cloud](https://cloud.google.com/kubernetes-engine).
 - I'm fluent in [Python](http://www.python.org).
+- I'm very interested in the [Erlang ](https://www.erlang.org)Ecosystem and the
+  [Elixir](https://elixir-lang.org) language.  I very much like the Syntax and
+  the Lisp-like meta programming features in Elixir.
+- I've been using mostly UNIX or BSD derived OS, used maintained systems running on various
+  Linux variants.
+- I've been using Macs for development since the
+  original [PowerBook Titanium G4](https://de.wikipedia.org/wiki/PowerBook_G4_Titanium).
 - I've been using several version control systems.  Currently I use
   [git](https://git-scm.com) since the Linux kernel development team moved to
   git from [bitkeeper](http://www.bitkeeper.org).
