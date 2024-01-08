@@ -18,14 +18,14 @@ Here is what I came up with.
 Notes
 -----
 
-- The demo code relies on a existing table 'NXTEST' in oracle.  I used navicat lite
+- The demo code relies on a existing table 'NXTEST' in oracle.  I used `navicat` lite
   to create this table.
 
 - The demo code locks a table row using 'select ... for update' to atomically increase
   the SEQ column.  
 
 - The requirement was that I could have a huge number of `name` entries,
-  all slightly different, each needing a separate counter.  I did'nt want
+  all slightly different, each needing a separate counter.  I didn't want
   to create a `sequence` for each of them.
 
 Gotchas
